@@ -48,9 +48,9 @@
         "troubleshooting/*.md": "tsnook"
       },
       "manager": {
-        "*.md": "mijacobs",
-        "**/*.md": "mijacobs",
-        "**/**/*.md": "mijacobs"
+        "*.md": "susanpotter",
+        "**/*.md": "susanpotter",
+        "**/**/*.md": "susanpotter"
       },
       "ms.author": {
         "*.md": "hcampos",
